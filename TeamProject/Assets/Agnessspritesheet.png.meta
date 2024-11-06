@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 066dde52b5e34de449b961b062043e0e
+=======
+guid: 9ff26d5af358ce140bd91506e9bb5a0d
+>>>>>>> parent of 9875d2f (Agnes Fix)
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
